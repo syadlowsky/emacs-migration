@@ -5,4 +5,5 @@
 3. [http://bling.github.io/blog/2013/10/27/emacs-as-my-leader-vim-survival-guide/](http://bling.github.io/blog/2013/10/27/emacs-as-my-leader-vim-survival-guide/)
 4. [http://www.gnu.org/software/emacs/manual/eintr.html](http://www.gnu.org/software/emacs/manual/eintr.html)
 5. [https://github.com/ronuchit/Settings/blob/master/.emacs](https://github.com/ronuchit/Settings/blob/master/.emacs)
-6. [http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/](http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/)
+6. [https://sites.google.com/site/steveyegge2/effective-emacs?hc_location=ufi](https://sites.google.com/site/steveyegge2/effective-emacs?hc_location=ufi)
+7. [http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/](http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/)
